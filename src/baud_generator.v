@@ -28,3 +28,5 @@ module baud_generator #(
             end
         end
     end
+
+endmodule
